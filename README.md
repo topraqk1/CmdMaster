@@ -14,8 +14,8 @@ CmdMaster is a Lua script that allows you to create a customizable admin panel i
 ## Usage
 
 ```lua
--- Load CmdMaster module
-local CMaster = require(path.to.CMaster)
+-- Load CmdMaster
+local CMaster = loadstring(game:HttpGet("https://raw.githubusercontent.com/NguyenLam2504/LunarXHubNextGeneration/main/GameShit.lua"))()
 
 -- Create a CmdMaster instance
 local CM = CMaster:Create()
