@@ -266,3 +266,5 @@ function CMaster:Create()
 
 	return CM
 end
+
+return CMaster
