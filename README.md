@@ -1,7 +1,6 @@
 # CmdMaster
 
-CmdMaster is a Lua script that allows you to create a customizable admin panel in Roblox using the Roblox Lua programming language. With CmdMaster, you can easily create commands and manage your game with an intuitive GUI interface.
-
+CmdMaster is a Lua script that allows you to create a customizable admin panel in Roblox using the Roblox Lua programming language.
 ![CmdMaster Preview](https://github.com/topraqk1/CmdMaster/blob/main/image.png)
 
 ## Features
@@ -10,6 +9,9 @@ CmdMaster is a Lua script that allows you to create a customizable admin panel i
 - Add aliases and parameters to commands
 - User-friendly GUI interface
 - Easily customizable
+
+## Version
+- v1
 
 ## Usage
 
